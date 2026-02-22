@@ -1,9 +1,13 @@
 import React from 'react';
+import HomeBanner from './HomeBanner/HomeBanner'
+import BodyApp from './BodyApp/BodyApp';
+
 
 const Home = () => {
     return (
         <div>
-            <h1>this is home</h1>
+            <HomeBanner></HomeBanner>
+            <BodyApp></BodyApp>
         </div>
     );
 };
