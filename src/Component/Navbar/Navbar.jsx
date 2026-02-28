@@ -32,9 +32,9 @@ const Navbar = () => {
     
   </div>
   <div className='navbar-end'>
-  <a className="btn ml-2 ">
+  <Link to={'https://github.com/99Sajid/sj99'} className="btn ml-2 ">
   <span>
-<FaGithub className="text-xl" /></span>Contribute</a>
+<FaGithub className="text-xl" /></span>Contribute</Link>
   </div>
 </div>
         </div>

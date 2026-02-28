@@ -7,6 +7,7 @@ import Apps from '../Apps/Apps'
 import Installation from '../Installation/Installation';
 import ErrorsPage from '../ErrorHandle/ErrorHandle'
 import AppDetails from '../AppDetails/AppDetails';
+import ErrorsApp from '../ErrorsApp/ErrorsApp';
 export const router = createBrowserRouter([
   {
     path: "/",
@@ -14,21 +15,23 @@ export const router = createBrowserRouter([
     
      children: [
       {  index: true,
-        path: "/",
+        path: "",
         loader : ()=>fetch('/HomeBodyDataApp.json'),
         Component: Home,},
        {
-        path:"/app",
+        path:"app",
         loader: ()=>fetch('/AllAppData.json'),
         Component:Apps,
        },
        {
-        path:"/Installation",
+        path:"Installation",
+        loader: ()=>fetch('/AllAppData.json'),
         Component:Installation,
        },{
         path:'AppDetails/:id',
         loader: ()=>fetch('/AllAppData.json'),
         Component:AppDetails,
+        errorElement: <ErrorsApp />
        },
        {
         path:'*',

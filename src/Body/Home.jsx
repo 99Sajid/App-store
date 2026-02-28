@@ -1,4 +1,4 @@
-import React, { Suspense } from 'react';
+import React from 'react';
 import HomeBanner from './HomeBanner/HomeBanner'
 import BodyApp from './BodyApp/BodyApp';
 import { useLoaderData } from 'react-router';
@@ -9,10 +9,10 @@ const Home = () => {
     
     return (
         <div>
+         
             <HomeBanner></HomeBanner>
-            <Suspense fallback={<div>Loeading........</div>}>
             <BodyApp loderData={loderData}></BodyApp>
-             </Suspense>
+             
             
         </div>
     );

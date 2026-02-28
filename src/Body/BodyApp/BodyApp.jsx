@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const BodyApp = ({loderData}) => {
    
     return (
-        <div className='py-10 w-[95%] mx-auto'>
+        <div className='py-10 px-10 w-full mx-auto bg-base-200'>
             <h1 className='text-xl font-bold text-center'>Trending Apps</h1>
             <p className='texl-sm text-center'>Explore All Trending Apps on the Market developed</p>
             <div className='grid grid-cols-2 md:grid-cols-4 gap-3 mb-3'>

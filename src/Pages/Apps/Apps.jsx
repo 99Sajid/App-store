@@ -6,7 +6,8 @@ const Apps = () => {
     const loaderData=useLoaderData();
     
     return (
-        <div className='w-[95%] mx-auto py-10'>
+        <div className='w-full bg-base-200'>
+        <div className='w-[95%] mx-auto py-10 '>
             <h1 className='text-2xl font-bold text-center mb-4'>Our All Applications</h1>
             <p className='text-xs text-center'>Explore All Apps on the Market developed by us. We code for Millions</p>
             <div className='flex justify-between'>
@@ -18,6 +19,7 @@ const Apps = () => {
                 loaderData.map((app)=><Appp key={app.id} app={app}></Appp>)
             }
             </div>
+        </div>
         </div>
     );
 };

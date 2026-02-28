@@ -1,12 +1,6 @@
 const getStoreApp=()=>{
-    const storeAppSTR=localStorage.getItem("Installed");
-    
-    if(storeAppSTR){
-        const storeAppData=JSON.parse(storeAppSTR);
-        return storeAppData;
-    }else{
-        return [];
-    }
+    const storedApps = JSON.parse(localStorage.getItem("Installed")) || [];
+    return storedApps;
 }
 
 const AddToStoredDB=(id)=>{
@@ -22,4 +16,9 @@ const AddToStoredDB=(id)=>{
     }
 
 }
-export {AddToStoredDB,getStoreApp};
+const RemveFromStoredDB=(id)=>{
+    const RemovedAppData=getStoreApp();
+    const updatedApps = RemovedAppData.filter(appId => appId !== id);
+    localStorage.setItem("Installed", JSON.stringify(updatedApps));
+}
+export {AddToStoredDB,getStoreApp,RemveFromStoredDB};

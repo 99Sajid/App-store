@@ -14,8 +14,8 @@ const HomeBanner = () => {
         quasi. In deleniti eaque aut repudiandae et a id nisi.
       </p>
       <div className='flex gap-2 justify-center p-4'>
-      <button className="btn "><FaGooglePlay />Google Play</button>
-      <button className="btn "><FaAppStore />App Store</button>
+      <button className="btn " onClick={() => window.open("https://play.google.com/store", "_blank")} ><FaGooglePlay />Google Play</button>
+      <button className="btn " onClick={() => window.open("https://www.apple.com/store/", "_blank")}><FaAppStore />App Store</button>
       </div>
 <img src={heroimg} className='pt-2'></img>
 
