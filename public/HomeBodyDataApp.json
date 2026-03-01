@@ -1,6 +1,6 @@
 [
   {
-    "image": "/demo-app1.webp",
+    "image": "/1.webp",
     "title": "TaskMaster Pro",
     "companyName": "Productivity Labs",
     "id": 1,
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "/demo-app2.webp",
+    "image": "/2.webp",
     "title": "FitTrack",
     "companyName": "HealthTech Inc.",
     "id": 2,
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "/demo-app3.webp",
+    "image": "/3.webp",
     "title": "PhotoMagic",
     "companyName": "Creative Apps",
     "id": 3,
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "/demo-app4.webp",
+    "image": "/4.webp",
     "title": "MoneyWise",
     "companyName": "Finance Hub",
     "id": 4,
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "/demo-app5.webp",
+    "image": "/5.webp",
     "title": "TravelMate",
     "companyName": "Wanderlust Co.",
     "id": 5,
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "/demo-app6.webp",
+    "image": "/6.webp",
     "title": "CookBook Deluxe",
     "companyName": "KitchenTech",
     "id": 6,
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "/demo-app6.webp",
+    "image": "/7.webp",
     "title": "Mindful Meditation",
     "companyName": "Zen Apps",
     "id": 7,
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "/demo-app6.webp",
+    "image": "/8.webp",
     "title": "GameZone",
     "companyName": "FunPlay Studios",
     "id": 8,

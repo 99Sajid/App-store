@@ -26,7 +26,9 @@ const AppDetails = () => {
   setDisable(true);
   toast("Installed Successfully");
 };
-    
+     if (!AppDetailsData) {
+  return <ErrorsApp />;
+}
     
    
     return (

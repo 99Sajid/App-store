@@ -19,8 +19,8 @@ const Navbar = () => {
 
       </ul>
     </div>
-    <img src='/logo.png' alt='' className='w-5 h-5'></img>
-    <a className=" text-xl font-bold">HERO.IO</a>
+   <Link to="/" className='flex items-center gap-2'> <img src='/logo.png' alt='' className='w-5 h-5'></img>
+    <a className=" text-xl font-bold">HERO.IO</a></Link>
   </div>
  
   <div className="navbar-center">

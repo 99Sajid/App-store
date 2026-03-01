@@ -8,7 +8,7 @@ const InstalledApp = ({app,onRemove}) => {
     
     return (
         <div className='flex justify-between gap-4 my-4 shadow-2xl bg-base-100'>
-        <div className='flex '>
+        <div className='flex gap-4'>
           <img src={app.image} className='h-25 w-20'></img>
           <div>
         <h2 className='text-2xl font-bold'>{app.title}:{app.companyName}</h2>

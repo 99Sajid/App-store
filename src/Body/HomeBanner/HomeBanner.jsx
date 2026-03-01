@@ -25,21 +25,21 @@ const HomeBanner = () => {
 </div>
 <div className='herofoot bg-purple-600 w-full text-center p-4'>
 <div><h1 className='text-2xl font-bold text-white'>Trusted By Million, Build For You</h1></div>
-<div className='flex gap-6 text-xs text-white justify-center p-4'>
+<div className='flex gap-8 text-xs text-white justify-center p-4'>
 <div>
-<p >Total Download</p>
+<p >Total Downloads</p>
 <h1 className='text-3xl font-bold'>29.6M</h1>
 <p>21% more than last month</p>
 </div>
 <div>
-<p>Total Download</p>
-<h1 className='text-3xl font-bold'>29.6M</h1>
-<p>21% more than last month</p>
+<p>Total Reviews</p>
+<h1 className='text-3xl font-bold'>906k</h1>
+<p>46% more than last month</p>
 </div>
 <div>
-<p>Total Download</p>
-<h1 className='text-3xl font-bold'>29.6M</h1>
-<p>21% more than last month</p>
+<p>Active Apps</p>
+<h1 className='text-3xl font-bold'>132+</h1>
+<p>30 more will launch</p>
 </div>
 </div>
 

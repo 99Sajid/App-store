@@ -1,10 +1,10 @@
 [
   {
-    "image": "/demo-app1.webp",
+    "image": "/1.webp",
     "title": "TaskMaster Pro",
     "companyName": "Productivity Labs",
     "id": 1,
-    "description": "Organize your tasks efficiently and boost your productivity with TaskMaster Pro.",
+    "description": "TaskMaster Pro is a comprehensive productivity management application built to help individuals and teams stay organized, focused, and efficient in their daily activities. Designed with simplicity and performance in mind, the app allows users to create structured task lists, assign deadlines, set priority levels, and categorize projects with ease. Whether managing academic assignments, office responsibilities, or personal goals, TaskMaster Pro ensures nothing important is overlooked. The intuitive dashboard provides a clear overview of pending, completed, and upcoming tasks, enabling users to track progress in real time. Smart reminders and recurring task options help maintain consistency and discipline. Collaboration tools make it possible to assign tasks to team members, monitor shared project timelines, and maintain seamless communication. The built-in analytics section offers insights into productivity patterns, allowing users to identify strengths and improve weak areas. Lightweight yet powerful, TaskMaster Pro runs smoothly without consuming excessive device resources. Its distraction-free interface enhances concentration, while customizable themes provide a personalized experience. By combining structured planning, real-time tracking, and performance insights, TaskMaster Pro transforms daily task management into an efficient and stress-free process that promotes long-term success and personal growth.",
     "size": 45,
     "reviews": 1200,
     "ratingAvg": 4.5,
@@ -18,11 +18,11 @@
     ]
   },
   {
-    "image": "/demo-app2.webp",
+    "image": "/2.webp",
     "title": "FitTrack",
     "companyName": "HealthTech Inc.",
     "id": 2,
-    "description": "Track your workouts, steps, and health progress with FitTrack.",
+    "description": "FitTrack is an advanced health and fitness tracking application designed to help users achieve their wellness goals through data-driven insights and smart monitoring tools. The app seamlessly tracks daily steps, workout sessions, calories burned, and heart rate, providing real-time updates through intuitive visual dashboards. Suitable for beginners and professional athletes alike, FitTrack allows users to set customized fitness targets such as weight loss, muscle building, endurance improvement, or overall health maintenance. Integrated performance charts and weekly summaries help users visualize their progress and stay motivated. The app also includes guided workout routines, hydration reminders, sleep monitoring, and nutrition logging features to promote a balanced lifestyle. Wearable device integration ensures accurate tracking and synchronization across platforms. Community challenges and achievement badges add a motivational layer, encouraging users to stay consistent. Its clean interface prevents overwhelming data presentation while maintaining detailed analytics for serious fitness enthusiasts. By combining smart tracking technology with motivational tools, FitTrack empowers users to maintain discipline, improve physical performance, and build sustainable healthy habits for long-term well-being.",
     "size": 60,
     "reviews": 2300,
     "ratingAvg": 4.2,
@@ -35,12 +35,13 @@
       { "name": "5 star", "count": 800 }
     ]
   },
+
   {
-    "image": "/demo-app3.webp",
+    "image": "/3.webp",
     "title": "PhotoMagic",
     "companyName": "Creative Apps",
     "id": 3,
-    "description": "Enhance and edit your photos with AI-powered tools and filters.",
+    "description": "PhotoMagic is a powerful AI-driven photo editing application designed to transform ordinary images into professional-quality visuals. Featuring advanced filters, smart enhancement tools, and automated correction features, the app allows users to refine lighting, color balance, contrast, and sharpness with precision. Built-in AI recognition technology detects faces, backgrounds, and objects to apply intelligent adjustments instantly. Users can experiment with artistic filters, cinematic presets, and creative overlays to achieve unique visual styles. The app supports high-resolution editing while maintaining image clarity and detail. Easy-to-use sliders and editing panels ensure both beginners and professionals can enhance images without complexity. Social sharing options allow direct publishing to major platforms, making it ideal for influencers, photographers, and content creators. By blending artificial intelligence with user-friendly controls, PhotoMagic simplifies complex editing processes while delivering impressive, high-quality results.",
     "size": 75,
     "reviews": 3400,
     "ratingAvg": 4.7,
@@ -53,12 +54,13 @@
       { "name": "5 star", "count": 2190 }
     ]
   },
+
   {
-    "image": "/demo-app4.webp",
+    "image": "/4.webp",
     "title": "MoneyWise",
     "companyName": "Finance Hub",
     "id": 4,
-    "description": "Manage your budget and track expenses effortlessly with MoneyWise.",
+    "description": "MoneyWise is a personal finance management application that helps users monitor expenses, track income, and maintain financial stability. The app enables categorized spending analysis, monthly budget creation, and automated expense tracking. Visual reports and graphs provide a clear understanding of financial habits. Secure encryption protects sensitive data while reminders ensure timely bill payments. Whether managing daily expenses or long-term savings goals, MoneyWise simplifies financial planning through an organized, easy-to-navigate interface.",
     "size": 50,
     "reviews": 1800,
     "ratingAvg": 4.1,
@@ -72,11 +74,11 @@
     ]
   },
   {
-    "image": "/demo-app5.webp",
+    "image": "/5.webp",
     "title": "TravelMate",
     "companyName": "Wanderlust Co.",
     "id": 5,
-    "description": "Plan your trips, book hotels, and discover destinations with TravelMate.",
+    "description": "TravelMate is an all-in-one travel planning and exploration application designed to make every journey seamless and memorable. From discovering destinations to booking accommodations and organizing itineraries, TravelMate simplifies the entire travel experience. Users can explore curated travel guides, hidden attractions, and local recommendations tailored to their interests and budget. The app allows travelers to create detailed itineraries, schedule activities, and receive real-time reminders to stay on track. Integrated booking tools make it easy to compare hotels, flights, and transport options, ensuring cost-effective decisions. Offline access to saved plans ensures convenience even without internet connectivity. TravelMate also provides weather updates, currency conversion tools, and safety alerts for informed decision-making. With collaborative trip planning features, friends and family can contribute to shared travel plans. Whether planning a weekend getaway or an international adventure, TravelMate offers the organization, inspiration, and reliability needed to make travel stress-free and enjoyable.",
     "size": 80,
     "reviews": 2700,
     "ratingAvg": 4.4,
@@ -90,11 +92,11 @@
     ]
   },
   {
-    "image": "/demo-app6.webp",
+    "image": "/6.webp",
     "title": "CookBook Deluxe",
     "companyName": "KitchenTech",
     "id": 6,
-    "description": "Explore thousands of recipes and cooking tips with CookBook Deluxe.",
+    "description": "CookBook Deluxe is a feature-rich culinary application designed to inspire home cooks and professional chefs alike. With thousands of curated recipes from around the world, the app offers step-by-step cooking instructions, ingredient lists, and preparation tips to ensure delicious results every time. Users can search recipes based on cuisine, dietary preference, cooking time, or available ingredients. Interactive timers, measurement converters, and video tutorials enhance the cooking experience. The app also allows users to save favorite recipes, create shopping lists, and plan weekly meal schedules. Personalized recommendations are generated based on previous searches and preferences. Nutritional information for each recipe supports healthier eating decisions. CookBook Deluxe transforms everyday cooking into a creative and enjoyable experience by combining convenience, organization, and culinary inspiration in one powerful platform.",
     "size": 65,
     "reviews": 1500,
     "ratingAvg": 4.3,
@@ -108,11 +110,11 @@
     ]
   },
   {
-    "image": "/demo-app6.webp",
+    "image": "/7.webp",
     "title": "Mindful Meditation",
     "companyName": "Zen Apps",
     "id": 7,
-    "description": "Relax and reduce stress with guided meditation and mindfulness exercises.",
+    "description": "Mindful Meditation is a wellness-focused application designed to help users reduce stress, improve focus, and cultivate emotional balance through guided meditation practices. Featuring a wide range of sessions tailored to beginners and experienced practitioners, the app provides calming voice guidance, ambient soundscapes, and breathing exercises. Users can select meditation programs based on goals such as stress reduction, better sleep, improved concentration, or anxiety management. Progress tracking tools encourage consistency and habit formation. Daily reminders and streak tracking help maintain motivation. The app also includes soothing background sounds such as rainfall, ocean waves, and forest ambiance to enhance relaxation. With its clean interface and evidence-based techniques, Mindful Meditation promotes mental clarity and inner peace in today’s fast-paced lifestyle.",
     "size": 55,
     "reviews": 2100,
     "ratingAvg": 4.6,
@@ -126,11 +128,11 @@
     ]
   },
   {
-    "image": "/demo-app6.webp",
+    "image": "/8.webp",
     "title": "GameZone",
     "companyName": "FunPlay Studios",
     "id": 8,
-    "description": "Play exciting games, challenge friends, and enjoy endless fun on GameZone.",
+    "description": "GameZone is a dynamic entertainment platform offering a diverse collection of exciting games across multiple genres. From action-packed adventures to strategic puzzles and multiplayer competitions, GameZone provides endless fun for players of all ages. The app features smooth gameplay performance, regular content updates, and engaging graphics that create immersive experiences. Players can compete with friends, join tournaments, and earn rewards through achievements and leaderboards. Social integration allows sharing progress and inviting others to join challenges. With intuitive navigation and optimized performance, GameZone ensures uninterrupted entertainment. Whether seeking casual relaxation or competitive excitement, GameZone delivers a comprehensive gaming experience in one convenient platform.",
     "size": 120,
     "reviews": 5000,
     "ratingAvg": 4.8,
@@ -144,220 +146,226 @@
     ]
   },
 
-{
-  "image": "/demo-app6.webp",
-  "title": "StudyBuddy",
-  "companyName": "EduSmart Ltd.",
-  "id": 9,
-  "description": "Your smart companion for notes, flashcards, and exam preparation.",
-  "size": 48,
-  "reviews": 1900,
-  "ratingAvg": 4.3,
-  "downloads": 110000,
-  "ratings": [
-    { "name": "1 star", "count": 60 },
-    { "name": "2 star", "count": 70 },
-    { "name": "3 star", "count": 300 },
-    { "name": "4 star", "count": 700 },
-    { "name": "5 star", "count": 770 }
-  ]
-},
-{
-  "image": "/demo-app6.webp",
-  "title": "DailyNews 24",
-  "companyName": "Global Media",
-  "id": 10,
-  "description": "Stay updated with breaking news from around the world.",
-  "size": 52,
-  "reviews": 2600,
-  "ratingAvg": 4.0,
-  "downloads": 140000,
-  "ratings": [
-    { "name": "1 star", "count": 150 },
-    { "name": "2 star", "count": 120 },
-    { "name": "3 star", "count": 500 },
-    { "name": "4 star", "count": 900 },
-    { "name": "5 star", "count": 930 }
-  ]
-},
-{
-  "image": "/demo-app6.webp",
-  "title": "CryptoTrack",
-  "companyName": "FinTech Labs",
-  "id": 11,
-  "description": "Track real-time cryptocurrency prices and market trends.",
-  "size": 70,
-  "reviews": 3200,
-  "ratingAvg": 4.4,
-  "downloads": 210000,
-  "ratings": [
-    { "name": "1 star", "count": 90 },
-    { "name": "2 star", "count": 110 },
-    { "name": "3 star", "count": 400 },
-    { "name": "4 star", "count": 1200 },
-    { "name": "5 star", "count": 1400 }
-  ]
-},
-{
-  "image": "/demo-app6.webp",
-  "title": "SleepWell",
-  "companyName": "Healthify",
-  "id": 12,
-  "description": "Improve your sleep cycle with relaxing sounds and tracking tools.",
-  "size": 58,
-  "reviews": 1700,
-  "ratingAvg": 4.5,
-  "downloads": 98000,
-  "ratings": [
-    { "name": "1 star", "count": 45 },
-    { "name": "2 star", "count": 60 },
-    { "name": "3 star", "count": 250 },
-    { "name": "4 star", "count": 600 },
-    { "name": "5 star", "count": 745 }
-  ]
-},
-{
-  "image": "/demo-app6.webp",
-  "title": "WeatherNow",
-  "companyName": "SkyTech",
-  "id": 13,
-  "description": "Get accurate weather forecasts and live storm alerts.",
-  "size": 42,
-  "reviews": 2800,
-  "ratingAvg": 4.2,
-  "downloads": 175000,
-  "ratings": [
-    { "name": "1 star", "count": 130 },
-    { "name": "2 star", "count": 140 },
-    { "name": "3 star", "count": 500 },
-    { "name": "4 star", "count": 900 },
-    { "name": "5 star", "count": 1130 }
-  ]
-},
-{
-  "image": "/demo-app6.webp",
-  "title": "LanguageLeap",
-  "companyName": "LinguaTech",
-  "id": 14,
-  "description": "Learn new languages with interactive lessons and quizzes.",
-  "size": 85,
-  "reviews": 4100,
-  "ratingAvg": 4.7,
-  "downloads": 320000,
-  "ratings": [
-    { "name": "1 star", "count": 70 },
-    { "name": "2 star", "count": 60 },
-    { "name": "3 star", "count": 300 },
-    { "name": "4 star", "count": 1200 },
-    { "name": "5 star", "count": 2470 }
-  ]
-},
-{
-  "image": "/demo-app6.webp",
-  "title": "MovieStream",
-  "companyName": "Streamify Inc.",
-  "id": 15,
-  "description": "Watch trending movies and TV shows anytime, anywhere.",
-  "size": 150,
-  "reviews": 6200,
-  "ratingAvg": 4.6,
-  "downloads": 450000,
-  "ratings": [
-    { "name": "1 star", "count": 120 },
-    { "name": "2 star", "count": 100 },
-    { "name": "3 star", "count": 500 },
-    { "name": "4 star", "count": 1800 },
-    { "name": "5 star", "count": 3680 }
-  ]
-},
-{
-  "image": "/demo-app6.webp",
-  "title": "RideNow",
-  "companyName": "Urban Mobility",
-  "id": 16,
-  "description": "Book rides instantly and travel safely across the city.",
-  "size": 90,
-  "reviews": 5400,
-  "ratingAvg": 4.1,
-  "downloads": 390000,
-  "ratings": [
-    { "name": "1 star", "count": 300 },
-    { "name": "2 star", "count": 250 },
-    { "name": "3 star", "count": 800 },
-    { "name": "4 star", "count": 1500 },
-    { "name": "5 star", "count": 2550 }
-  ]
-},
-{
-  "image": "/demo-app6.webp",
-  "title": "ShopEasy",
-  "companyName": "RetailHub",
-  "id": 17,
-  "description": "Shop your favorite products online with amazing deals.",
-  "size": 110,
-  "reviews": 7200,
-  "ratingAvg": 4.5,
-  "downloads": 600000,
-  "ratings": [
-    { "name": "1 star", "count": 200 },
-    { "name": "2 star", "count": 180 },
-    { "name": "3 star", "count": 900 },
-    { "name": "4 star", "count": 2200 },
-    { "name": "5 star", "count": 3720 }
-  ]
-},
-{
-  "image": "/demo-app6.webp",
-  "title": "CodeMaster",
-  "companyName": "DevLabs",
-  "id": 18,
-  "description": "Learn programming with interactive coding challenges.",
-  "size": 95,
-  "reviews": 3100,
-  "ratingAvg": 4.8,
-  "downloads": 270000,
-  "ratings": [
-    { "name": "1 star", "count": 40 },
-    { "name": "2 star", "count": 30 },
-    { "name": "3 star", "count": 200 },
-    { "name": "4 star", "count": 900 },
-    { "name": "5 star", "count": 1930 }
-  ]
-},
-{
-  "image": "/demo-app6.webp",
-  "title": "MusicWave",
-  "companyName": "SoundSphere",
-  "id": 19,
-  "description": "Stream millions of songs and create your own playlists.",
-  "size": 130,
-  "reviews": 4800,
-  "ratingAvg": 4.4,
-  "downloads": 520000,
-  "ratings": [
-    { "name": "1 star", "count": 150 },
-    { "name": "2 star", "count": 120 },
-    { "name": "3 star", "count": 600 },
-    { "name": "4 star", "count": 1600 },
-    { "name": "5 star", "count": 2330 }
-  ]
-},
-{
-  "image": "/demo-app6.webp",
-  "title": "SecureVault",
-  "companyName": "CyberSafe",
-  "id": 20,
-  "description": "Protect your files and passwords with advanced encryption.",
-  "size": 66,
-  "reviews": 2100,
-  "ratingAvg": 4.6,
-  "downloads": 160000,
-  "ratings": [
-    { "name": "1 star", "count": 55 },
-    { "name": "2 star", "count": 40 },
-    { "name": "3 star", "count": 220 },
-    { "name": "4 star", "count": 700 },
-    { "name": "5 star", "count": 1085 }
-  ]
-}
+  {
+    "image": "/9.webp",
+    "title": "StudyBuddy",
+    "companyName": "EduSmart Ltd.",
+    "id": 9,
+    "description": "StudyBuddy is an intelligent learning companion designed to support students in organizing study materials and preparing effectively for exams. The app provides note-taking tools, flashcard creation, and interactive quizzes to reinforce knowledge retention. Users can categorize subjects, set study schedules, and track academic progress through visual analytics. Smart reminders ensure consistent study habits. Collaborative features allow sharing notes and participating in group discussions. StudyBuddy’s clean interface and structured organization system reduce academic stress while enhancing productivity and learning efficiency.",
+    "size": 48,
+    "reviews": 1900,
+    "ratingAvg": 4.3,
+    "downloads": 110000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 770 }
+    ]
+  },
+
+  {
+    "image": "/10.webp",
+    "title": "DailyNews 24",
+    "companyName": "Global Media",
+    "id": 10,
+    "description": "DailyNews 24 delivers real-time news coverage from around the globe, ensuring users stay informed about politics, technology, entertainment, sports, and business. Personalized news feeds adapt to user interests while push notifications provide breaking updates instantly. The app offers offline reading, bookmarking, and multimedia integration including videos and photo galleries. With a clean layout and reliable sources, DailyNews 24 ensures accessible and trustworthy information anytime, anywhere.",
+    "size": 52,
+    "reviews": 2600,
+    "ratingAvg": 4.0,
+    "downloads": 140000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 930 }
+    ]
+  },
+
+  {
+    "image": "/11.webp",
+    "title": "CryptoTrack",
+    "companyName": "FinTech Labs",
+    "id": 11,
+    "description": "CryptoTrack is a powerful cryptocurrency monitoring application that provides real-time price updates, market trends, and portfolio management tools. Users can track multiple coins, analyze performance charts, and receive instant alerts for market fluctuations. Secure portfolio tracking helps investors monitor profits and losses efficiently. With accurate data visualization and timely notifications, CryptoTrack simplifies digital asset management for beginners and experienced traders alike.",
+    "size": 70,
+    "reviews": 3200,
+    "ratingAvg": 4.4,
+    "downloads": 210000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 1400 }
+    ]
+  },
+
+  {
+    "image": "/12.webp",
+    "title": "SleepWell",
+    "companyName": "Healthify",
+    "id": 12,
+    "description": "SleepWell is a sleep improvement application designed to help users achieve healthier sleep patterns through sound therapy, tracking tools, and guided relaxation sessions. The app monitors sleep cycles, provides personalized insights, and suggests improvements based on collected data. Relaxing soundscapes and bedtime reminders promote deeper, uninterrupted rest. SleepWell’s analytics help users understand sleep quality trends and build consistent nighttime routines for long-term wellness.",
+    "size": 58,
+    "reviews": 1700,
+    "ratingAvg": 4.5,
+    "downloads": 98000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 745 }
+    ]
+  }
+
+,
+
+  {
+    "image": "/13.webp",
+    "title": "WeatherNow",
+    "companyName": "SkyTech",
+    "id": 13,
+    "description": "WeatherNow is a comprehensive weather forecasting app that delivers accurate and timely weather information for users worldwide. It provides detailed forecasts including temperature, precipitation, wind speed, humidity, and UV index. Users can access real-time alerts for severe weather conditions such as storms, hurricanes, or extreme temperatures, ensuring personal safety and preparedness. The app features interactive maps, radar animations, and satellite imagery for visual tracking of weather patterns. Daily, hourly, and weekly forecasts allow for easy planning of activities. Personalized settings let users monitor multiple locations, receive notifications for specific weather events, and customize display preferences. WeatherNow also offers lifestyle suggestions, such as clothing recommendations and travel advisories, making it a practical and reliable tool for anyone looking to stay informed and make weather-smart decisions.",
+    "size": 42,
+    "reviews": 2800,
+    "ratingAvg": 4.2,
+    "downloads": 175000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1130 }
+    ]
+  },
+  {
+    "image": "/14.webp",
+    "title": "LanguageLeap",
+    "companyName": "LinguaTech",
+    "id": 14,
+    "description": "LanguageLeap is an interactive language learning platform designed to help users acquire new languages efficiently and effectively. The app offers a wide variety of languages, teaching vocabulary, grammar, pronunciation, and conversational skills through engaging lessons and exercises. Gamification elements such as quizzes, challenges, and rewards motivate learners and track progress. Users can practice speaking with AI-powered voice recognition, listen to native speakers, and engage in cultural lessons to enhance real-world understanding. Personalized learning paths adapt to individual skill levels, ensuring steady improvement. The app also includes offline capabilities, study reminders, and collaborative learning features to encourage consistency and social interaction. LanguageLeap is perfect for students, travelers, and professionals seeking a flexible, immersive, and enjoyable approach to language mastery.",
+    "size": 85,
+    "reviews": 4100,
+    "ratingAvg": 4.7,
+    "downloads": 320000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 2470 }
+    ]
+  },
+  {
+    "image": "/15.webp",
+    "title": "MovieStream",
+    "companyName": "Streamify Inc.",
+    "id": 15,
+    "description": "MovieStream is a premium streaming application that allows users to watch the latest movies, TV shows, and exclusive content on-demand. The platform provides high-quality video playback, personalized recommendations based on viewing history, and curated collections to help users discover new content. MovieStream supports multiple devices, offline downloads, and multiple language subtitles for global accessibility. Users can create watchlists, receive notifications for upcoming releases, and participate in community reviews and ratings. With a user-friendly interface, advanced search filters, and optimized performance for smooth streaming, MovieStream offers a complete entertainment ecosystem for casual viewers and cinephiles alike, making it easy to enjoy content anywhere, anytime.",
+    "size": 150,
+    "reviews": 6200,
+    "ratingAvg": 4.6,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 3680 }
+    ]
+  },
+  {
+    "image": "/16.webp",
+    "title": "RideNow",
+    "companyName": "Urban Mobility",
+    "id": 16,
+    "description": "RideNow is a fast, convenient, and secure ride-hailing application designed to simplify urban travel. Users can quickly book rides, choose vehicle types, and track drivers in real-time through the integrated GPS system. The app provides fare estimates, multiple payment options, and ride history for transparency and ease of use. Safety features include driver verification, in-app emergency contacts, and live route sharing with friends or family. RideNow also offers ride scheduling, promotional discounts, and loyalty rewards for frequent users. Optimized for traffic conditions and dynamic route planning, RideNow ensures efficient and reliable transportation for daily commutes, airport transfers, or spontaneous trips, making it a dependable companion for urban mobility needs.",
+    "size": 90,
+    "reviews": 5400,
+    "ratingAvg": 4.1,
+    "downloads": 390000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 2550 }
+    ]
+  },
+  {
+    "image": "/17.webp",
+    "title": "ShopEasy",
+    "companyName": "RetailHub",
+    "id": 17,
+    "description": "ShopEasy is a comprehensive online shopping platform that offers a seamless experience for purchasing products across various categories. The app provides product listings with detailed descriptions, high-resolution images, and customer reviews to aid decision-making. Users can filter searches, track orders, and receive personalized recommendations. ShopEasy supports multiple secure payment options, wishlists, and notifications for discounts and flash sales. Integrated customer support ensures smooth issue resolution. With easy navigation, regular promotions, and loyalty programs, ShopEasy enhances the convenience, reliability, and enjoyment of online shopping, making it a preferred choice for modern consumers.",
+    "size": 110,
+    "reviews": 7200,
+    "ratingAvg": 4.5,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 3720 }
+    ]
+  },
+  {
+    "image": "/18.webp",
+    "title": "CodeMaster",
+    "companyName": "DevLabs",
+    "id": 18,
+    "description": "CodeMaster is an interactive coding learning platform designed to help aspiring programmers master programming languages and software development skills. It features a wide range of exercises, tutorials, and challenges that teach problem-solving, algorithm design, and coding best practices. Users can write, test, and debug code directly within the app across multiple programming languages. Progress tracking, gamified achievements, and coding contests keep learners motivated. CodeMaster also provides collaborative coding opportunities and mentorship support for deeper understanding. Whether a beginner or an experienced developer seeking skill enhancement, CodeMaster provides a structured, immersive, and engaging environment to learn and practice programming effectively.",
+    "size": 95,
+    "reviews": 3100,
+    "ratingAvg": 4.8,
+    "downloads": 270000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1930 }
+    ]
+  },
+  {
+    "image": "/19.webp",
+    "title": "MusicWave",
+    "companyName": "SoundSphere",
+    "id": 19,
+    "description": "MusicWave is a powerful music streaming platform that allows users to listen to millions of tracks, create custom playlists, and discover new artists. The app offers high-quality audio playback, personalized recommendations, and curated playlists for various moods and genres. Users can follow favorite artists, share playlists with friends, and explore trending music worldwide. MusicWave supports offline listening, lyric integration, and seamless cross-device synchronization. With social sharing, event notifications, and artist spotlights, MusicWave provides an engaging and interactive musical experience, making it the go-to app for music lovers seeking convenience, variety, and discovery.",
+    "size": 130,
+    "reviews": 4800,
+    "ratingAvg": 4.4,
+    "downloads": 520000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 2330 }
+    ]
+  },
+  {
+    "image": "/20.webp",
+    "title": "SecureVault",
+    "companyName": "CyberSafe",
+    "id": 20,
+    "description": "SecureVault is a robust security application that allows users to store sensitive files, passwords, and personal data with advanced encryption technologies. The app features secure vaults, multi-factor authentication, and biometric access options to ensure maximum protection. Users can organize files, set access permissions, and monitor access logs for peace of mind. SecureVault supports cloud synchronization, secure sharing, and backup options to prevent data loss. With its intuitive interface, detailed security settings, and alerts for unauthorized access, SecureVault provides a reliable and user-friendly solution for safeguarding digital assets, making it essential for privacy-conscious individuals and businesses.",
+    "size": 66,
+    "reviews": 2100,
+    "ratingAvg": 4.6,
+    "downloads": 160000,
+    "ratings": [
+      { "name": "1 star", "count": 55 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 220 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1085 }
+    ]
+  }
 ]
